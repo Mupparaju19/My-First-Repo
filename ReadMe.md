@@ -1,3 +1,2 @@
-Hi 
-This is My first Repo.
-My Second Commit.
+Mupparaju Murali krishna
+9-15, madduluru Andhra pradesh 523225
